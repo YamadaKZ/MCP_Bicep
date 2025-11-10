@@ -1,6 +1,6 @@
 # MCP_Bicep – Azure Developer CLI テンプレート
 
-Azure Developer CLI (azd) を使って、メッセージ・センター・プラットフォーム (MCP) のインフラと Python 製 Azure Functions アプリを一括デプロイするためのテンプレートです。
+Azure Developer CLI (azd) を使い、Azure上に構築する、Python製の MCP (Model Context Protocol)サーバー を一括デプロイするためのテンプレートです。
 
 > ポイント要約
 >
